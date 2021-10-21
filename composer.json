@@ -1,0 +1,15 @@
+{
+    "name": "wild/composer",
+    "autoload": {
+        "psr-4": {
+            "Wild\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Brice",
+            "email": "officielbrice@gmail.com"
+        }
+    ],
+    "require": {}
+}
